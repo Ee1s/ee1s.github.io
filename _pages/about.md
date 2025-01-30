@@ -42,11 +42,11 @@ I received my Ph.D Degree in College of Intelligence and Computing, Tianjin Univ
 </div>
 </div> -->
 
-- *"GOODAT: Towards Test-time Graph Out-of-Distribution Detection"*, Luzhi Wang, Dongxiao He, He Zhang, Yixin Liu, Wenjie Wang, Shirui Pan<sup>`*`</sup>, AAAI 2024, Oral, 1.83%.
-- *"Contrastive Graph Similarity Networks"*, Luzhi Wang, Yizhen Zheng, Di Jin, Fuyi Li, Yongliang Qiao, Shirui Pan<sup>`*`</sup>, Tweb 2024.
-- A Survey on Fairness-aware Recommender System. Di Jin (Supervisor), Luzhi Wang, He Zhang, Yizhen Zheng, Feng Xia, Shirui Pann<sup>`*`</sup>, Information Fusion 2023, IF: 18.60.
-- Dual Intent Enhanced Graph Neural Network for Session-based New Item Recommendation. Di Jin (Supervisor), Luzhi Wang, Yizhen Zheng, Guojie Song, Fei Jiang, Xiang Li, Wei Lin, Shirui Pan, WWW 2023, Oral.
-- CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning. Di Jin (Supervisor), Luzhi Wang, Yizhen Zheng, Xiang Li, Fei Jiang, Wei Lin, Shirui Pan<sup>`*`</sup>, IJCAI 2022, Oral 3.75%.
+- *"GOODAT: Towards Test-time Graph Out-of-Distribution Detection"*. Luzhi Wang, Dongxiao He, He Zhang, Yixin Liu, Wenjie Wang, Shirui Pan<sup>`*`</sup>, AAAI 2024, Oral, 1.83%.
+- *"Contrastive Graph Similarity Networks"*. Luzhi Wang, Yizhen Zheng, Di Jin, Fuyi Li, Yongliang Qiao, Shirui Pan<sup>`*`</sup>, Tweb 2024.
+- *"A Survey on Fairness-aware Recommender System*". Di Jin (Supervisor), Luzhi Wang, He Zhang, Yizhen Zheng, Feng Xia, Shirui Pan<sup>`*`</sup>, Information Fusion 2023, IF: 18.60.
+- *"Dual Intent Enhanced Graph Neural Network for Session-based New Item Recommendation*". Di Jin (Supervisor), Luzhi Wang, Yizhen Zheng, Guojie Song, Fei Jiang, Xiang Li, Wei Lin, Shirui Pan, WWW 2023, Oral.
+- *"CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning*". Di Jin (Supervisor), Luzhi Wang, Yizhen Zheng, Xiang Li, Fei Jiang, Wei Lin, Shirui Pan<sup>`*`</sup>, IJCAI 2022, Oral 3.75%.
 
 # 🎖 Certifications and Awards
 - National Scholarship Award.
