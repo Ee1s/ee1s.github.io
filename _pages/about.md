@@ -42,7 +42,7 @@ I received Ph.D Degree in College of Intelligence and Computing in Tianjin Unive
 </div>
 </div> -->
 
-- *"GOODAT: Towards Test-time Graph Out-of-Distribution Detection"*, Luzhi Wang, Dongxiao He, He Zhang, Yixin Liu, Wenjie Wang, Shirui Pan<sup>`*`</sup>, AAAI 2024, Oral, 1.83&lt;p&gt;.
+- *"GOODAT: Towards Test-time Graph Out-of-Distribution Detection"*, Luzhi Wang, Dongxiao He, He Zhang, Yixin Liu, Wenjie Wang, Shirui Pan<sup>`*`</sup>, AAAI 2024, Oral, 1.83\%.
 - *"Contrastive Graph Similarity Networks."*, Luzhi Wang, Yizhen Zheng, Di Jin, Fuyi Li, Yongliang Qiao, Shirui Pan<sup>`*`</sup>, Tweb 2024.
 
 # 🎖 Certifications and Awards
