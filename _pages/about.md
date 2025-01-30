@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D Degree in College of Intelligence and Computing in Tianjin University, supervised by Prof. Di Jin and Prof. [Shirui Pan](https://shiruipan.github.io/). During my PhD period, I also worked as a visiting Ph.D. student in National University of Singapore from 2023 to 2024, supervised by Prof. [Tat-Seng Chua](https://www.chuatatseng.com/) and Dr. [Wenjie Wang](https://wenjiewwj.github.io/). 
+I received my Ph.D Degree in College of Intelligence and Computing, Tianjin University, supervised by Prof. Di Jin and Prof. [Shirui Pan](https://shiruipan.github.io/). During my PhD period, I also worked as a visiting Ph.D. student in National University of Singapore from 2023 to 2024, supervised by Prof. [Tat-Seng Chua](https://www.chuatatseng.com/) and Dr. [Wenjie Wang](https://wenjiewwj.github.io/). 
 
 
 
@@ -46,7 +46,7 @@ I received my Ph.D Degree in College of Intelligence and Computing in Tianjin Un
 - *"Contrastive Graph Similarity Networks"*, Luzhi Wang, Yizhen Zheng, Di Jin, Fuyi Li, Yongliang Qiao, Shirui Pan<sup>`*`</sup>, Tweb 2024.
 - A Survey on Fairness-aware Recommender System. Di Jin (Supervisor), Luzhi Wang, He Zhang, Yizhen Zheng, Feng Xia, Shirui Pann<sup>`*`</sup>, Information Fusion 2023, IF: 18.60.
 - Dual Intent Enhanced Graph Neural Network for Session-based New Item Recommendation. Di Jin (Supervisor), Luzhi Wang, Yizhen Zheng, Guojie Song, Fei Jiang, Xiang Li, Wei Lin, Shirui Pan, WWW 2023, Oral.
-- CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning. Di Jin (Supervisor), Luzhi Wang, Yizhen Zheng, Xiang Li, Fei Jiang, Wei Lin, Shirui Pan<sup>`*`</sup>, Oral 3.75%.
+- CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning. Di Jin (Supervisor), Luzhi Wang, Yizhen Zheng, Xiang Li, Fei Jiang, Wei Lin, Shirui Pan<sup>`*`</sup>, IJCAI 2022, Oral 3.75%.
 
 # 🎖 Certifications and Awards
 - National Scholarship Award.
