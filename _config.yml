@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ge Meng"
-description              : "Research Fellow at the National University of Singapore, Singapore"
-repository               : "gemengtju/gemengtju.github.io"
+title                    : "Luzhi Wang"
+description              : ""
+repository               : "ee1s/ee1s.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "GE MENG"
-  avatar           : "images/gemeng.png"
+  name             : "Luzhi Wang"
+  avatar           : "images/me.png"
   bio              : "[Curriculum Vitae (EN/CN)]"
-  location         : "Singapore"
+  location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.sg/citations?user=Ody4GF0AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=scbRgYwAAAAJ&hl=en"
   email            : "gemeng@nus.edu.sg"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gemengtju"
+  github           : "ee1s"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ACoAAC42AT0BVyLL7KKnrxEx22RUL0iREXigxB0"
+  linkedin         : #"ACoAAC42AT0BVyLL7KKnrxEx22RUL0iREXigxB0"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "627545197?spm_id_from=333.337.0.0"
+  youtube          : #"627545197?spm_id_from=333.337.0.0"
   wikipedia        :
 
 
