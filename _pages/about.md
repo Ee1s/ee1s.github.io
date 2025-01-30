@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D Degree in College of Intelligence and Computing, Tianjin University, supervised by Prof. Di Jin and Prof. [Shirui Pan](https://shiruipan.github.io/). During my PhD period, I also worked as a visiting Ph.D. student in National University of Singapore from 2023 to 2024, supervised by Prof. [Tat-Seng Chua](https://www.chuatatseng.com/) and Dr. [Wenjie Wang](https://wenjiewwj.github.io/). 
+I received PhD Degree in College of Intelligence and Computing, Tianjin University, supervised by Prof. Di Jin and Prof. [Shirui Pan](https://shiruipan.github.io/). During my PhD period, I also worked as a visiting Ph.D. student in National University of Singapore, supervised by Prof. [Tat-Seng Chua](https://www.chuatatseng.com/) and Dr. [Wenjie Wang](https://wenjiewwj.github.io/). 
 
 
 
