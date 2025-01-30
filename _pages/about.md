@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received Ph.D Degree in College of Intelligence and Computing in Tianjin University, supervised by Prof. Di Jin and Prof. [Shirui Pan](https://shiruipan.github.io/). During my PhD period, I also worked as a visiting Ph.D. student in National University of Singapore from 2023 to 2024, supervised by Prof. [Tat-Seng Chua](https://www.chuatatseng.com/) and Dr. [Wenjie Wang](https://wenjiewwj.github.io/). 
+I received my Ph.D Degree in College of Intelligence and Computing in Tianjin University, supervised by Prof. Di Jin and Prof. [Shirui Pan](https://shiruipan.github.io/). During my PhD period, I also worked as a visiting Ph.D. student in National University of Singapore from 2023 to 2024, supervised by Prof. [Tat-Seng Chua](https://www.chuatatseng.com/) and Dr. [Wenjie Wang](https://wenjiewwj.github.io/). 
 
-%My research interest includes Graph Theroy, speech separation and social network analysis. %I have published more than 10 papers at the top international AI conferences such as IJCAI, ICASSP, INTERSPEECH.
+
 
 # 📖 Educations
 - *2020.09 - 2025.01*, Ph.D. Tianjin University (TJU), Tianjin, China.
@@ -28,7 +28,7 @@ I received Ph.D Degree in College of Intelligence and Computing in Tianjin Unive
 - *2013.09 - 2017.06*, B.E. Northeast Normal University (NENU), ChangChun, China.
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -42,8 +42,11 @@ I received Ph.D Degree in College of Intelligence and Computing in Tianjin Unive
 </div>
 </div> -->
 
-- *"GOODAT: Towards Test-time Graph Out-of-Distribution Detection"*, Luzhi Wang, Dongxiao He, He Zhang, Yixin Liu, Wenjie Wang, Shirui Pan<sup>`*`</sup>, AAAI 2024, Oral, 1.83\%.
-- *"Contrastive Graph Similarity Networks."*, Luzhi Wang, Yizhen Zheng, Di Jin, Fuyi Li, Yongliang Qiao, Shirui Pan<sup>`*`</sup>, Tweb 2024.
+- *"GOODAT: Towards Test-time Graph Out-of-Distribution Detection"*, Luzhi Wang, Dongxiao He, He Zhang, Yixin Liu, Wenjie Wang, Shirui Pan<sup>`*`</sup>, AAAI 2024, Oral, 1.83%.
+- *"Contrastive Graph Similarity Networks"*, Luzhi Wang, Yizhen Zheng, Di Jin, Fuyi Li, Yongliang Qiao, Shirui Pan<sup>`*`</sup>, Tweb 2024.
+- A Survey on Fairness-aware Recommender System. Di Jin (Supervisor), Luzhi Wang, He Zhang, Yizhen Zheng, Feng Xia, Shirui Pann<sup>`*`</sup>, Information Fusion 2023, IF: 18.60.
+- Dual Intent Enhanced Graph Neural Network for Session-based New Item Recommendation. Di Jin (Supervisor), Luzhi Wang, Yizhen Zheng, Guojie Song, Fei Jiang, Xiang Li, Wei Lin, Shirui Pan, WWW 2023, Oral.
+- CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning. Di Jin (Supervisor), Luzhi Wang, Yizhen Zheng, Xiang Li, Fei Jiang, Wei Lin, Shirui Pan<sup>`*`</sup>, Oral 3.75%.
 
 # 🎖 Certifications and Awards
 - National Scholarship Award.
