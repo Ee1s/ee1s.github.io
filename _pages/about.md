@@ -44,7 +44,7 @@ Hi👋, I’m Luzhi Wang. I received my Ph.D. from the Tianjin Key Laboratory of
 - *"Contrastive Graph Similarity Networks"*. Luzhi Wang, Yizhen Zheng, Di Jin, Fuyi Li, Yongliang Qiao, Shirui Pan<sup>`*`</sup>. Tweb 2024.
 - *"A Survey on Fairness-aware Recommender System*". Di Jin (Supervisor), Luzhi Wang, He Zhang, Yizhen Zheng, Weiping Ding, Feng Xia, Shirui Pan<sup>`*`</sup>. Information Fusion 2023, IF: 18.60.
 - *"Dual Intent Enhanced Graph Neural Network for Session-based New Item Recommendation*". Di Jin (Supervisor), Luzhi Wang, Yizhen Zheng, Guojie Song, Fei Jiang, Xiang Li, Wei Lin, Shirui Pan. WWW 2023, Oral.
-- *"CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning*". Di Jin (Supervisor), Luzhi Wang, Yizhen Zheng, Xiang Li, Fei Jiang, Wei Lin, Shirui Pan<sup>`*`</sup>. IJCAI 2022, Oral 3.75%.
+- *"CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning*". Di Jin (Supervisor), Luzhi Wang, Yizhen Zheng, Xiang Li, Fei Jiang, Wei Lin, Shirui Pan<sup>`*`</sup>. IJCAI 2022, Oral, 3.75%.
 
 # 🎖 Certifications and Awards
 - National Scholarship Award.
