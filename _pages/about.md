@@ -58,6 +58,6 @@ Hi👋, I’m Luzhi Wang. I received my Ph.D. from the Tianjin Key Laboratory of
 # 💻 Research Experiences
 - *2023.08 - 2024.01*, Research Asistant, Xinrenxinshi Recommendation Lab.
 - *2021.10 - 2023.02*, Research Intern, Search and Recommendation Technology Department, Meituan Recommendation Lab.
-- *2022.03 - 2022.11*, Research Intern, China Electronics Technology Group Corporation.
+- *2022.03 - Present*, Research Intern, China Electronics Technology Group Corporation.
 
 
