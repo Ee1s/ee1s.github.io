@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received PhD Degree in College of Intelligence and Computing, Tianjin University, supervised by Prof. Di Jin and Prof. [Shirui Pan](https://shiruipan.github.io/). During my PhD period, I also worked as a visiting Ph.D. student in National University of Singapore, supervised by Prof. [Tat-Seng Chua](https://www.chuatatseng.com/) and Dr. [Wenjie Wang](https://wenjiewwj.github.io/). 
+I received PhD Degree in College of Intelligence and Computing, Tianjin University, supervised by Prof. Di Jin and Prof. [Shirui Pan](https://shiruipan.github.io/). During my PhD period, I also worked as a visiting Ph.D. student in the NExT Research Centre, National University of Singapore, supervised by Prof. [Tat-Seng Chua](https://www.chuatatseng.com/) and Dr. [Wenjie Wang](https://wenjiewwj.github.io/). 
 
 
 
@@ -54,7 +54,7 @@ I received PhD Degree in College of Intelligence and Computing, Tianjin Universi
 
 
 # 💬 Service Experiences
-- Conference Reviewers: ICML, ICLR, KDD, Neurips, AAAI, IJCAI, MM, and etc.
+- Conference Reviewers: ICML, ICLR, KDD, NeurIPS, AAAI, IJCAI, MM, and etc.
 - Journal Reviewers: TIP, TNNLS, TWEB, TCSVT, TBigData, Pattern Recognition, Neural Networks, Information Science, KAIS, and etc.
 
 # 💻 Research Experiences
