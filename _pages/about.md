@@ -56,8 +56,8 @@ Hi👋, I’m Luzhi Wang. I received my Ph.D. from the Tianjin Key Laboratory of
 - Journal Reviewers: TIP, TNNLS, TWEB, TCSVT, TBigData, Pattern Recognition, Neural Networks, Information Science, KAIS, and etc.
 
 # 💻 Research Experiences
-- *2023.08 - 2024.01*, Research Asistant, Xinrenxinshi Recommendation Lab.
-- *2022.03 - Present*, Research Intern, China Electronics Technology Group Corporation.
-- *2021.10 - 2023.02*, Research Intern, Search and Recommendation Technology Department, Meituan Recommendation Lab.
+- Research Assistant, Xinrenxinshi Recommendation Lab.
+- Research Intern, China Electronics Technology Group Corporation.
+- Research Intern, Search and Recommendation Technology Department, Meituan Recommendation Lab.
 
 
