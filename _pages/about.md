@@ -57,7 +57,6 @@ Hi👋, I’m Luzhi Wang. Now I am an associate professor at Dalian Maritime Uni
 
 # 💻 Research Experiences
 - Research Intern, Xinrenxinshi Recommendation Lab.
-- Research Intern, China Electronics Technology Group Corporation.
 - Research Intern, Search and Recommendation Technology Department, Meituan Recommendation Lab.
 
 
