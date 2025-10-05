@@ -19,6 +19,12 @@ redirect_from:
 
 Hi👋, I’m Luzhi Wang. Now I am an associate professor at Dalian Maritime University. I received my Ph.D. from the Tianjin Key Laboratory of Cognitive Computing and Application, College of Intelligence and Computing, Tianjin University, under the supervision of Prof. Di Jin. I also supervised by Prof. [Shirui Pan](https://shiruipan.github.io/) (Griffith University) at the [TrustAGI Lab](https://trust-agi.github.io/people/). During my Ph.D., I had the opportunity to be a visiting scholar at the NExT++ Research Centre, National University of Singapore, where I was supervised by Prof. [Tat-Seng Chua](https://www.chuatatseng.com/) and worked with Prof. [Wenjie Wang](https://wenjiewwj.github.io/). 
 
+
+<p style="color:red;">
+I am looking for self-motivated M.S. and Ph.D. students. Please feel free to connect with me at 
+<a href="mailto:wangluzhi0@gmail.com" style="color:red;">wangluzhi0@gmail.com</a>.
+</p>
+
 # 📖 Educations
 - *2020.09 - 2025.01*, Ph.D. Tianjin University (TJU), Tianjin, China.
 - *2023.01 - 2024.01*, Visiting Ph.D. Student, National University of Singapore (NUS), Singapore.
@@ -52,7 +58,7 @@ Hi👋, I’m Luzhi Wang. Now I am an associate professor at Dalian Maritime Uni
 
 
 # 💬 Service Experiences
-- Conference Reviewers: ICML, ICLR, KDD, NeurIPS, AAAI, IJCAI, MM, and etc.
+- Conference Reviewers: ICML, ICLR, KDD, NeurIPS, AAAI, IJCAI, ACM MM, WWW and etc.
 - Journal Reviewers: TIP, TNNLS, TWEB, TCSVT, TBigData, Pattern Recognition, Neural Networks, Information Science, KAIS, and etc.
 
 # 💻 Research Experiences
