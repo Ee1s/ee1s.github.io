@@ -62,7 +62,7 @@ I am looking for self-motivated M.S. and Ph.D. students. Please feel free to con
 - Program Committee Members: ICML, ICLR, KDD, NeurIPS, AAAI, IJCAI, MM, WWW and etc.
 - Journal Reviewers: TIP, TNNLS, TWEB, TCSVT, TBigData, Pattern Recognition, Neural Networks, Information Science, KAIS, and etc.
 
-# 💻 Research Experiences
+# 💻 Intern Experiences
 - Research Intern, Xinrenxinshi Recommendation Lab.
 - Research Intern, Search and Recommendation Technology Department, Meituan Recommendation Lab.
 
