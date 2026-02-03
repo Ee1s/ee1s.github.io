@@ -9,13 +9,13 @@ main:
     url: "/#-educations"
 
   - title: "Recent Publications"
-    url: "/#-Recent-Publications"
+    url: "/#-recent-publications"
     
   - title: "Service Experiences"
-    url: "/#-leadership-and-service-experiences"
+    url: "/#-service-experiences"
 
   - title: "Intern Experiences"
     url: "/#-intern-experiences"
     
   - title: "Certifications and Awards"
-    url: "/#-research-experiences"
+    url: "/#-certifications-and-awards"
