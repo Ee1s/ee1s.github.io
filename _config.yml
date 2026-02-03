@@ -28,7 +28,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=scbRgYwAAAAJ&hl=en"
-  email            : "wangluzhi@tju.edu.cn"
+  github           : "wangluzhi"
+  email            : "wangluzhi0@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +38,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wangluzhi"
   google_plus      :
   keybase          :
   instagram        :
