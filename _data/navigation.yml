@@ -5,21 +5,17 @@ main:
 
   # - title: "News"
   #   url: "/#-news"
-
-  - title: "Research Experiences"
-    url: "/#-research-experiences"
-
-  - title: "Publications"
-    url: "/#-publications"
-
   - title: "Educations"
-    url: "/#-educations"
+  url: "/#-educations"
 
-  - title: "Work Experiences"
-    url: "/#-work-experiences"
-
-  - title: "Certifications and Awards"
-    url: "/#-certifications-and-awards"
-
+  - title: "Recent Publications"
+    url: "/#-Recent-Publications"
+    
   - title: "Service Experiences"
     url: "/#-leadership-and-service-experiences"
+
+  - title: "Intern Experiences"
+    url: "/#-intern-experiences"
+    
+  - title: "Certifications and Awards"
+    url: "/#-research-experiences"
