@@ -45,6 +45,7 @@ I am looking for self-motivated M.S. and Ph.D. students. Please feel free to con
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+- *"Hi-GMAE: Hierarchical Graph Masked Autoencoders"*. Chuang Liu, Zelin Yao, Xueqi Ma, Mukun Chen, **Luzhi Wang**, Jia Wu and Wenbin Hu. WWW 2026.
 - *"A Graph Foundation Model for Unified Anomaly Detection"*. Renda Han, Xiaobao Wang, **Luzhi Wang**, Wenxin Zhang, Guangzhen Yao, Hongxiang Liang. WWW 2026.
 - *"Cross-Type Semantic Alignment for Multi-Type Anomaly Detection in Heterogeneous Graphs"*. Di Jin, Xiao Huang, Xiaobao Wang, Fengyu Yan, **Luzhi Wang**, Hongxiang Liang. WWW 2026.
 - *"From Subtle to Significant: Prompt-Driven Self-Improving Optimization in Test-Time Graph OOD Detection"*. **Luzhi Wang**, Xuanshuo Fu, He Zhang, Chuang Liu, Xiaobao Wang, Hongbo Liu. AAAI 2026, Oral, 4.48%.
