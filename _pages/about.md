@@ -59,7 +59,7 @@ I am looking for self-motivated M.S. and Ph.D. students. Please feel free to con
 
 # 💬 Service Experiences
 - Session Chairs: AAAI-26.
-- Program Committee Members: ICML, ICLR, KDD, NeurIPS, AAAI, IJCAI, ACM MM, ACM WWW and etc.
+- Program Committee Members: ICML, ICLR, KDD, NeurIPS, AAAI, IJCAI, MM, WWW and etc.
 - Journal Reviewers: TIP, TNNLS, TWEB, TCSVT, TBigData, Pattern Recognition, Neural Networks, Information Science, KAIS, and etc.
 
 # 💻 Research Experiences
