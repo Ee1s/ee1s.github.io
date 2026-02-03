@@ -45,15 +45,15 @@ I am looking for self-motivated M.S. and Ph.D. students. Please feel free to con
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-- *"A Graph Foundation Model for Unified Anomaly Detection". Renda Han, Xiaobao Wang, **Luzhi Wang**, Wenxin Zhang, Guangzhen Yao, Hongxiang Liang. WWW 2026.
-- *"Cross-Type Semantic Alignment for Multi-Type Anomaly Detection in Heterogeneous Graphs". Di Jin, Xiao Huang, Xiaobao Wang, Fengyu Yan, **Luzhi Wang**, Hongxiang Liang. WWW 2026.
-- *"From Subtle to Significant: Prompt-Driven Self-Improving Optimization in Test-Time Graph OOD Detection". **Luzhi Wang**, Xuanshuo Fu, He Zhang, Chuang Liu, Xiaobao Wang, Hongbo Liu. AAAI 2026, Oral, 4.48%.
-- *"Stealthy Yet Effective: Distribution-Preserving Backdoor Attacks on Graph classification". Xiaobao Wang, Ruoxiao Sun, Yujun Zhang, Bingdao Feng, Dongxiao He, **Luzhi Wang**, Di Jin. NeurIPS 2025.
+- *"A Graph Foundation Model for Unified Anomaly Detection"*. Renda Han, Xiaobao Wang, **Luzhi Wang**, Wenxin Zhang, Guangzhen Yao, Hongxiang Liang. WWW 2026.
+- *"Cross-Type Semantic Alignment for Multi-Type Anomaly Detection in Heterogeneous Graphs"*. Di Jin, Xiao Huang, Xiaobao Wang, Fengyu Yan, **Luzhi Wang**, Hongxiang Liang. WWW 2026.
+- *"From Subtle to Significant: Prompt-Driven Self-Improving Optimization in Test-Time Graph OOD Detection"*. **Luzhi Wang**, Xuanshuo Fu, He Zhang, Chuang Liu, Xiaobao Wang, Hongbo Liu. AAAI 2026, Oral, 4.48%.
+- *"Stealthy Yet Effective: Distribution-Preserving Backdoor Attacks on Graph classification"*. Xiaobao Wang, Ruoxiao Sun, Yujun Zhang, Bingdao Feng, Dongxiao He, **Luzhi Wang**, Di Jin. NeurIPS 2025.
 - *"GOODAT: Towards Test-time Graph Out-of-Distribution Detection"*. **Luzhi Wang**, Dongxiao He, He Zhang, Yixin Liu, Wenjie Wang, Shirui Pan<sup>`*`</sup>, Di Jin, Tat-seng Chua. AAAI 2024, Oral, 1.77%.
 - *"Contrastive Graph Similarity Networks"*. **Luzhi Wang**, Yizhen Zheng, Di Jin, Fuyi Li, Yongliang Qiao, Shirui Pan<sup>`*`</sup>. Tweb 2024.
-- *"A Survey on Fairness-aware Recommender System*". Di Jin (Supervisor), **Luzhi Wang**, He Zhang, Yizhen Zheng, Weiping Ding, Feng Xia, Shirui Pan<sup>`*`</sup>. Information Fusion 2023, IF: 18.60.
-- *"Dual Intent Enhanced Graph Neural Network for Session-based New Item Recommendation*". Di Jin (Supervisor), **Luzhi Wang**, Yizhen Zheng, Guojie Song, Fei Jiang, Xiang Li, Wei Lin, Shirui Pan. WWW 2023, Oral.
-- *"CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning*". Di Jin (Supervisor), **Luzhi Wang**, Yizhen Zheng, Xiang Li, Fei Jiang, Wei Lin, Shirui Pan<sup>`*`</sup>. IJCAI 2022, Long Oral, 3.75%.
+- *"A Survey on Fairness-aware Recommender System"*. Di Jin (Supervisor), **Luzhi Wang**, He Zhang, Yizhen Zheng, Weiping Ding, Feng Xia, Shirui Pan<sup>`*`</sup>. Information Fusion 2023, IF: 18.60.
+- *"Dual Intent Enhanced Graph Neural Network for Session-based New Item Recommendation"*. Di Jin (Supervisor), **Luzhi Wang**, Yizhen Zheng, Guojie Song, Fei Jiang, Xiang Li, Wei Lin, Shirui Pan. WWW 2023, Oral.
+- *"CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning"*. Di Jin (Supervisor), **Luzhi Wang**, Yizhen Zheng, Xiang Li, Fei Jiang, Wei Lin, Shirui Pan<sup>`*`</sup>. IJCAI 2022, Long Oral, 3.75%.
 
 # 🎖 Certifications and Awards
 - National Scholarship Award.
