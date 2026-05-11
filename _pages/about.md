@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi👋, I’m Luzhi Wang. Now I am an associate professor at Dalian Maritime University. I received my Ph.D. from the Tianjin Key Laboratory of Cognitive Computing and Application, College of Intelligence and Computing, Tianjin University, under the supervision of Prof. Di Jin. I also worked with Prof. [Shirui Pan](https://shiruipan.github.io/) (Griffith University). During my Ph.D., I had the opportunity to be a visiting scholar at the NExT++ Research Centre, National University of Singapore, where I was supervised by Prof. [Tat-Seng Chua](https://www.chuatatseng.com/) and worked with Prof. [Wenjie Wang](https://wenjiewwj.github.io/). 
+Hi👋, I’m Luzhi Wang. Now I am an associate professor at Dalian Maritime University. I received my Ph.D. from the Tianjin Key Laboratory of Cognitive Computing and Application, College of Intelligence and Computing, Tianjin University, worked with Prof. [Shirui Pan](https://shiruipan.github.io/) (Griffith University). During my Ph.D., I had the opportunity to be a visiting scholar at the NExT++ Research Centre, National University of Singapore, where I was supervised by Prof. [Tat-Seng Chua](https://www.chuatatseng.com/) and worked with Prof. [Wenjie Wang](https://wenjiewwj.github.io/). 
 
 
 <!-- <p style="color:red;">
