@@ -20,6 +20,10 @@ redirect_from:
 Hi👋, I’m Luzhi Wang. Now I am an associate professor at Dalian Maritime University. I received my Ph.D. from the Tianjin Key Laboratory of Cognitive Computing and Application, College of Intelligence and Computing, Tianjin University, and co-supervised by Prof. [Shirui Pan](https://shiruipan.github.io/). During my Ph.D., I had the opportunity to be a visiting scholar at the NExT++ Research Centre, National University of Singapore, where I was supervised by Prof. [Tat-Seng Chua](https://www.chuatatseng.com/) and worked with Prof. [Wenjie Wang](https://wenjiewwj.github.io/). 
 
 
+<p style="color:red;">
+I am looking for self-motivated International M.S. students. Please feel free to connect with me at 
+<a href="mailto:wangluzhi0@gmail.com" style="color:red;">wangluzhi0@gmail.com</a>.
+
 <!-- <p style="color:red;">
 I am looking for self-motivated M.S. and Ph.D. students. Please feel free to connect with me at 
 <a href="mailto:wangluzhi0@gmail.com" style="color:red;">wangluzhi0@gmail.com</a>.
