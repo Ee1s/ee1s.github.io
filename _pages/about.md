@@ -21,7 +21,7 @@ Hi👋, I’m Luzhi Wang. Now I am an associate professor at Dalian Maritime Uni
 
 
 <p style="color:red;">
-I am looking for self-motivated International M.S. students. Please feel free to connect with me at 
+I am looking for self-motivated International Master students. Please feel free to connect with me at 
 <a href="mailto:wangluzhi0@gmail.com" style="color:red;">wangluzhi0@gmail.com</a>.
 
 <!-- <p style="color:red;">
